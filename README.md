@@ -1,5 +1,4 @@
-# Policy_Management_System_for_an_Insurance_Company
-## Insurance Management System
+## Policy_Management_System_for_an_Insurance_Company
 # Project Overview
 A professional object-oriented Python application demonstrating insurance policy management, product cataloging, and payment processing systems. This academic project showcases proper software architecture principles with separated concerns and modular design. Thus, through building an insurance company management system where we can add customers such as policyholders, create insurance products like car insurance, health insurance etc, process payments and see who bought what
 
